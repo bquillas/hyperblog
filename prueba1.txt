@@ -3,3 +3,5 @@ Hola, probando Git.
 Estoy tomado cursos en Platzi.
 
 Este es el segundo commit del segundo dia aprendiendo Git.
+
+Probando con el segundo archivo.
