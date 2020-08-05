@@ -1,0 +1,2 @@
+Probando y revisando que los archivos de stagin se puedan borrar por hay algunos qiue no deben de ser comiteados.
+Segunda linea.
