@@ -1,2 +1,3 @@
 Hola, probando Git.
- Tengo 23 años.
+ Tengo 24 años.
+Estoy tomado cursos en Platzi.
