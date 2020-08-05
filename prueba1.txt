@@ -1,3 +1,5 @@
 Hola, probando Git.
  Tengo 24 años.
 Estoy tomado cursos en Platzi.
+
+Este es el segundo commit del segundo dia aprendiendo Git.
