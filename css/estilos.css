@@ -34,6 +34,7 @@ body{
     text-align: left;
     border: 1px solid #dddddd;
     margin: 0 auto;
+    background-color: white;
 }
 
 #container h1{
@@ -46,7 +47,9 @@ body{
 }
 #footer p{
     background: green;
+    color: white;
     text-align: center;
-    padding: 1em;
+    padding: 0.5em;
     font-weight: bold;
 }
+
