@@ -2,6 +2,8 @@ Hola, probando Git.
  Tengo 24 años.
 Estoy tomado cursos en Platzi.
 
+Quillas Platform es una persona que contribuye a este proyecto Open Source.
+
 Este es el segundo commit del segundo dia aprendiendo Git.
 
 Probando con el segundo archivo.
