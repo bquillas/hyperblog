@@ -6,4 +6,6 @@ Quillas Platform es una persona que contribuye a este proyecto Open Source.
 
 Este es el segundo commit del segundo dia aprendiendo Git.
 
+Master 1
+
 Probando con el segundo archivo.
